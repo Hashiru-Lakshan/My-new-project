@@ -1,3 +1,17 @@
-*{
-    color: aqua;
+.new1{
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.new1:hover{
+    
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(182, 107, 15);
 }
